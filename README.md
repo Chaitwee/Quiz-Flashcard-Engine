@@ -55,7 +55,7 @@ date|player|category|score|total|percentage|seconds
    ```
 2. Download the project:
    ```
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Chaitwee/Quiz-Flashcard-Engine.git
    cd <repo-name>
    ```
 3. No extra libraries are needed, so there is no `pip install` step and no configuration.
